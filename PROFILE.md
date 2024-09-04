@@ -29,3 +29,9 @@ You can insert a code like this `printf("Hello World!");`
   3. 3rd Paragraph
 * Conclusion
   1. Paragraph
+## Task to Do
+- [x] Offer Prayer
+- [ ] Learn Github
+- [x] Learn Markdown Language
+## Inserting Image
+![Inserting my first image](https://jaredchu.com/wp-content/uploads/2020/09/github-wallpaper-uhd-4k-3840x2160-2.jpg)
