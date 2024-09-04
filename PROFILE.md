@@ -12,8 +12,20 @@ Text that is not a quote
 > You can quote text
 ## Quoting Code
 You can insert a code like this `printf("Hello World!");`
-## Listing
+## Unordered Listing
 * Introduction
 * Body
 * Conclusion
-## Unordered Listing
+## Listing
+1. Introduction
+2. Body
+3. Conclusion
+## Nested Listing
+* Introduction
+  1. Paragraph
+* Body
+  1. 1st Paragraph
+  2. 2nd Paragraph
+  3. 3rd Paragraph
+* Conclusion
+  1. Paragraph
